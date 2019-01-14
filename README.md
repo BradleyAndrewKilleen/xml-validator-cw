@@ -1,3 +1,7 @@
+# README
+
+Simple XML validation program. You may review the program files under src/xmlvalidator or run the course provided unit test under src/sbccunittest/XmlValidatorTester.java.
+
 # JavaCoreTemplate
 Includes:
 * `Program.java`, with a `main()` that is ready to go, and has useful classes statically imported.
